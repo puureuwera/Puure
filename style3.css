@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to left, rgb(132, 161, 253), white)
+}
+h1,h2{
+    text-align: center;
+}
+h1{
+    font-family: algerian;
+    font-size: 50px;
+
+}
+h2{
+    font-size: 30px;
+    border:inset;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+p.one{
+    font-size: 25px;
+    text-align: center;
+}
+a{
+    font-size: 25px;
+}
+b{
+    color: brown;
+}
